@@ -1,7 +1,7 @@
 import requests
 
 def register(token):
-    data = f'fb_access_token={token}&username=zyll&first_name=&enc_password=#PWD_INSTAGRAM_BROWSER:0:0:zyllnothere'
+    data = f'fb_access_token={token}&username=zyll&first_name=&enc_password=#PWD_INSTAGRAM_BROWSER:0:0:zyllishere'
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36",
         "Content-Type": "application/x-www-form-urlencoded",
